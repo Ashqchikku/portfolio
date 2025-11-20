@@ -39,8 +39,8 @@ nav a{
 
 .left-container img{
 margin-top: 60px;
-width: 800px;
-height: 800px;
+width: 400px;
+height: 400px;
 display: block;
 border-radius: 50%;
 
@@ -200,8 +200,8 @@ margin: 50px;
 
 .left-footer img{
 
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
     display: block;
     border-radius: 50%;
 
