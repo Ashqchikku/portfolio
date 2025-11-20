@@ -87,6 +87,7 @@ border-radius: 50%;
 
 .container nav a:hover{
     color:wheat;
+    transform: scale(1.15);
 }
 body{
 background: linear-gradient(135deg, #0F0C29, #302B63, #24243E);
